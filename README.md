@@ -257,9 +257,3 @@ Berdasarkan seluruh analisis di atas, berikut rekomendasi strategis untuk manaje
 ---
 
 
-Semua grafik akan otomatis tersimpan sebagai file `.png` di folder yang sama.
-
----
-
-**Praktikum Analisis & Visualisasi Data**
-Teknik Informatika | 2025
